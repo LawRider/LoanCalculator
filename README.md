@@ -5,6 +5,7 @@ The script calculates the following loan parameters for annuity payment:
 - loan principal
 - number of periods
 - annuity payment
+
 It also can calculate all payments in case of differetiate payment.
 
 All parameters are taken as command line arguments using argparse module
